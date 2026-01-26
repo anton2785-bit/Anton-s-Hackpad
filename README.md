@@ -18,17 +18,17 @@ This project is intended to be beginner‑friendly while still allowing deep cus
 ## Repository Contents
 
 ```
-/pcb        → 
-/CAD        → 
-/firmware   → 
-README.md   → 
+/pcb        → https://github.com/anton2785-bit/Anton-s-Hackpad/tree/main/PCB
+/CAD        → https://github.com/anton2785-bit/Anton-s-Hackpad/tree/main/CAD
+/firmware   → https://github.com/anton2785-bit/Anton-s-Hackpad/tree/main/Firmware
+README.md   → This file
 ```
 
 ---
 
 ## Bill of Materials (BOM)
 
-### Mass‑Produced / Standard Parts
+### Standard Parts
 
 *(Fill in exact quantities as needed)*
 
@@ -37,7 +37,6 @@ README.md   →
 * Rotary encoder (EC11E / Alps‑style)
 * Microcontroller (XIAO RP2040)
 * SK6812 MINI‑E RGB LEDs
-* USB‑C cable
 
 ### Hardware
 
@@ -50,9 +49,15 @@ README.md   →
 
 *(Project‑specific)*
 
-* Custom PCB
+* Custom PCB                         
+*  <img width="500" height="314" alt="PCB" src="https://github.com/user-attachments/assets/6383d823-9b49-4665-939e-46c50596156d" />
 * Custom schematic
-* 3D‑printed case (top & bottom)
+* <img width="500" height="314" alt="sheme" src="https://github.com/user-attachments/assets/15d03ea6-f131-48ee-abd6-9f552d25272d" />
+*  3D‑printed case (top & bottom)
+*  <img width="500" height="314" alt="CAD case" src="https://github.com/user-attachments/assets/b69bd919-653e-4ac3-8c99-e03bbc4ab3e6" />
+
+
+
 
 ---
 
