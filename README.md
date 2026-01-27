@@ -2,27 +2,6 @@
 
 A small, customizable **mini keyboard / hackpad-style macropad** designed for tinkering, learning, and daily shortcuts. This project uses a custom PCB, schematic, and a fully **3D‑printed case** (no acrylic).
 
----
-
-## Overview
-
-* **Form factor:** Mini keyboard / hackpad
-* **Switch type:** MX‑style
-* **Keycap profile:** DSA
-* **Case:** 3D‑printed only
-* **Firmware:** KMK
-This project is intended to be beginner‑friendly while still allowing deep customization for more advanced users.
-
----
-
-## Repository Contents
-
-```
-/pcb        → https://github.com/anton2785-bit/Anton-s-Hackpad/tree/main/PCB
-/CAD        → https://github.com/anton2785-bit/Anton-s-Hackpad/tree/main/CAD
-/firmware   → https://github.com/anton2785-bit/Anton-s-Hackpad/tree/main/Firmware
-README.md   → This file
-```
 
 ---
 
