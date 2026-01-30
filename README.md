@@ -1,6 +1,5 @@
-# Mini Keyboard (Hackpad‑Style)
+# Anton's Hackpad
 
-A small, customizable **mini keyboard / hackpad-style macropad** designed for tinkering, learning, and daily shortcuts. This project uses a custom PCB, schematic, and a fully **3D‑printed case** (no acrylic).
 
 
 ---
@@ -21,7 +20,7 @@ A small, customizable **mini keyboard / hackpad-style macropad** designed for ti
 
 ---
 
-### Other non standart (
+### Other non standard ( project specific ) parts
 
 
 * Custom PCB                         
