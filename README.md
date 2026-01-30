@@ -12,21 +12,17 @@ A small, customizable **mini keyboard / hackpad-style macropad** designed for ti
 *(Fill in exact quantities as needed)*
 
 * MX‑style mechanical switches (**8x**)
-* Blank DSA keycaps – **White**
-* Rotary encoder (EC11E / Alps‑style)
-* Microcontroller (XIAO RP2040)
-* SK6812 MINI‑E RGB LEDs
-
-### Hardware
-
-* M3 × 16 mm screws
-* M3 heat‑set inserts (5 mm OD × 4 mm length)
+* Blank DSA keycaps – **White** (**8x**)
+* Rotary encoder EC11E 
+* XIAO RP2040-dip
+* SK6812 MINI‑E (**3x**)
+* M3 × 16 mm screws (**4x**)
+* M3 heat‑set inserts (**4x**)
 
 ---
 
-### Custom / Non‑Mass‑Produced Parts
+### Other non standart (
 
-*(Project‑specific)*
 
 * Custom PCB                         
 *  <img width="500" height="314" alt="PCB" src="https://github.com/user-attachments/assets/6383d823-9b49-4665-939e-46c50596156d" />
@@ -52,41 +48,26 @@ Ensure heat‑set inserts are installed carefully using a soldering iron tip siz
 
 ## Assembly Notes
 
-1. Solder all LEDs
-2. Solder the microcontroller
-3. Solder the rotary encoder
-4. Insert and solder MX switches
-5. Install heat‑set inserts into the case
-6. Mount PCB into the case using M3 screws
-7. Attach keycaps 
+1. Solder all components to the PCB
+2. Place the PCB in the case and screw the top plate
+3. Attach keycaps 
 
 ---
 
 ## Firmware
 
-* Compatible with RP2040‑based firmware ecosystems
-* Recommended:
-
-  * KMK
-
-Keymaps, layers, and encoder behavior are fully customizable.
-
+* I used KMK for this project, but ill improve it when i get the hackpad
+  
 ---
 
 Perfect for:
 
 * Coding shortcuts
-* Media control
-* CAD / design macros
+* CAD 
 * Learning keyboard firmware
 
 ---
 
-## License
-
-*(Add license information here)*
-
----
 
 ## Credits
 
