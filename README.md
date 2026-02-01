@@ -10,7 +10,7 @@
 
 *(Fill in exact quantities as needed)*
 
-* MX‑style mechanical switches (**8x**)
+* MX‑style mechanical switches (**8x**) ( preferebly red or black )
 * Blank DSA keycaps – **White** (**8x**)
 * Rotary encoder EC11E 
 * XIAO RP2040-dip
@@ -24,11 +24,12 @@
 
 
 * Custom PCB                         
-*  <img width="500" height="314" alt="PCB" src="https://github.com/user-attachments/assets/6383d823-9b49-4665-939e-46c50596156d" />
+*  <img width="500" height="900" alt="Screenshot 2026-02-01 112647" src="https://github.com/user-attachments/assets/4167a923-8f74-4232-9acd-90004245d6d2" />
 * Custom schematic
 * <img width="500" height="314" alt="sheme" src="https://github.com/user-attachments/assets/15d03ea6-f131-48ee-abd6-9f552d25272d" />
 *  3D‑printed case (top & bottom)
-*  <img width="500" height="314" alt="CAD case" src="https://github.com/user-attachments/assets/b69bd919-653e-4ac3-8c99-e03bbc4ab3e6" />
+*  <img width="500" height="971" alt="Screenshot 2026-01-30 164232" src="https://github.com/user-attachments/assets/6fc5ea09-6a89-498f-80c6-ecec633e7707" />
+
 
 
 
