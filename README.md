@@ -8,7 +8,6 @@
 
 ### Standard Parts
 
-*(Fill in exact quantities as needed)*
 
 * MX‑style mechanical switches (**8x**) ( preferebly red or black )
 * Blank DSA keycaps – **White** (**8x**)
